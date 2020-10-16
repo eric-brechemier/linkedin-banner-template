@@ -25,13 +25,15 @@ in the recommended dimensions.
 
 [Gimp.Template]: linkedin-banner-template.xcf
 
+![LinkedIn Banner Template][PNG.Template]
+
 ## Alternate Template
 
-I have also exported the [LinkedIn banner template in PNG format][Alternate.Template]
+I have also exported the [LinkedIn banner template in PNG format][PNG.Template]
 for use in any picture editing software. I have displayed the mask
 before the export to show the hazardous area concealed by the portrait.
 
-[Alternate.Template]: linkedin-banner-template.png
+[PNG.Template]: linkedin-banner-template.png
 
 ## References
 
