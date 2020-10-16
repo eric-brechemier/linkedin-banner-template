@@ -15,13 +15,23 @@ as this display is only presented to the user.*
 
 ## Banner Template
 
-This project contains a template picture in Gimp format
+This project contains a [template picture in Gimp format][Gimp.Template]
 with three layers, to facilitate the creation of a LinkedIn Banner
 in the recommended dimensions.
 
 * **background:** (visible) a solid color, to fill transparent parts of the banner
 * **banner:** (visible) transparent and empty, ready to host banner contents
 * **portrait:** (hidden) optional mask showing the area concealed by the portrait
+
+[Gimp.Template]: linkedin-banner-template.xcf
+
+## Alternate Template
+
+I have also exported the [LinkedIn banner template in PNG format][Alternate.Template]
+for use in any picture editing software. I have displayed the mask
+before the export to show the hazardous area concealed by the portrait.
+
+[Alternate.Template]: linkedin-banner-template.png
 
 ## References
 
